@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" modified="2023-10-24T22:11:25.436Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 OPR/103.0.0.0" etag="HZq1l-yNWkt8bPbKTMvZ" version="22.0.7" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1992" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="112107x2XdIErrn3GAt6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="112107x2XdIErrn3GAt6-2" target="112107x2XdIErrn3GAt6-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="112107x2XdIErrn3GAt6-2" value="START" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF3083;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="112107x2XdIErrn3GAt6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="112107x2XdIErrn3GAt6-3" target="112107x2XdIErrn3GAt6-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="112107x2XdIErrn3GAt6-3" value="Entering a natural number N" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=15;fillColor=#00664E;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="284" y="150" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="112107x2XdIErrn3GAt6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="112107x2XdIErrn3GAt6-5" target="112107x2XdIErrn3GAt6-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="112107x2XdIErrn3GAt6-5" value="product = 1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;arcSize=0;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="317" y="250" width="194" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="112107x2XdIErrn3GAt6-10" value="True" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="112107x2XdIErrn3GAt6-7" target="112107x2XdIErrn3GAt6-9">
+          <mxGeometry x="-0.2676" y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="112107x2XdIErrn3GAt6-25" value="False" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="112107x2XdIErrn3GAt6-7" target="112107x2XdIErrn3GAt6-22">
+          <mxGeometry x="-0.8413" y="-20" relative="1" as="geometry">
+            <mxPoint x="259.9999999999998" y="1029.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="390" />
+              <mxPoint x="230" y="850" />
+              <mxPoint x="426" y="850" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="112107x2XdIErrn3GAt6-7" value="N &amp;gt; 0" style="rhombus;whiteSpace=wrap;html=1;fillColor=#5E5E00;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="366" y="350" width="96" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="112107x2XdIErrn3GAt6-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="112107x2XdIErrn3GAt6-9" target="112107x2XdIErrn3GAt6-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="112107x2XdIErrn3GAt6-9" value="Get the last digit of the number N (N % 10) and store it in the variable digit" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="450" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="112107x2XdIErrn3GAt6-14" value="False" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="112107x2XdIErrn3GAt6-11" target="112107x2XdIErrn3GAt6-13">
+          <mxGeometry x="-0.5" y="22" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="112107x2XdIErrn3GAt6-11" value="digit != 7" style="rhombus;whiteSpace=wrap;html=1;fillColor=#5E5E00;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="468" y="560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="112107x2XdIErrn3GAt6-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="112107x2XdIErrn3GAt6-13" target="112107x2XdIErrn3GAt6-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="508" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="112107x2XdIErrn3GAt6-13" value="Аdd a number to the product&lt;br&gt;(product *= digit)" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="448" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="112107x2XdIErrn3GAt6-24" value="True" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="112107x2XdIErrn3GAt6-18" target="112107x2XdIErrn3GAt6-7">
+          <mxGeometry x="-0.876" y="-10" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="800" />
+              <mxPoint x="350" y="600" />
+              <mxPoint x="414" y="600" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="112107x2XdIErrn3GAt6-18" value="Delete the last digit of the number&lt;br&gt;(N /= 10)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="770" width="216" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="112107x2XdIErrn3GAt6-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="112107x2XdIErrn3GAt6-22" target="112107x2XdIErrn3GAt6-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="112107x2XdIErrn3GAt6-22" value="Display product" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="366" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="112107x2XdIErrn3GAt6-26" value="FINISH" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF3083;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="366" y="1000" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
