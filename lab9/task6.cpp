@@ -23,7 +23,7 @@ int main() {
     if (firstZero == -1) {
         cout << "There is no 0 element";
     } else {
-        cout << "Index of the first 0 element: " << first0;
+        cout << "Index of the first 0 element: " << firstZero;
     }
 
     return 0;
